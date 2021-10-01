@@ -4,5 +4,12 @@
         "name_of_animal":"cat",
         "scientific_name":"Felis catus",
         
+    },
+ {
+        "id":9,
+        "name_of_animal":"Dog",
+        "scientific_name":"Canis lupus familiaris",
+        
     }
+ 
 ]
